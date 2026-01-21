@@ -22,7 +22,7 @@
     background-color: #008cba;
 }
 
-.container:hover .overlay {
+.contenedor:hover .overlay {
     opacity: 1;
 }
 
